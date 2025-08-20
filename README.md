@@ -2,7 +2,7 @@
 primer repositorio
 
 
-#Descripcion del problema
+# Descripcion del problema
 
 # Definicion de la solucion
 
